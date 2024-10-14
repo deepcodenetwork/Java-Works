@@ -1,2 +1,2 @@
 # Java-Works
-## Repository having data structure and algorithm codes.
+## Repository having data structure and algorithm codes in java.
